@@ -6,6 +6,8 @@ A sample Python toolbox for running GeoExpress commands in ArcMap. See the origi
 
 http://www.lizardtech.com/blog/2013/geoexpress-toolbox-arcmap/
 
+**Note:** The GeoExpress.pyt file contains the Python code for the toolbox. The remaining XML files contain instructions that you can display in ArcMap.
+
 ###Prerequisites
 
 - Verify that you have ArcMap 10.2 installed. (ArcMap 10.1 should also work.)
